@@ -1,0 +1,22 @@
+.App {
+    display: flex;
+    flex-direction: row;
+    height: 97vh;
+}
+.container {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        border-right: 1px solid gray;
+}    
+.rightBar {
+    display: flex;
+    align-items: center;
+    width: 20%;
+    padding: 10px;
+}
+.main {
+    position:fixed;
+    height: 80vh;
+    border-bottom: 1px solid gray;
+}

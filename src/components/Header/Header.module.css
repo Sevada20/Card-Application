@@ -1,0 +1,16 @@
+
+.header button {
+    padding: 10px;
+}
+
+.header button {
+    background-color: white;
+    cursor: pointer;
+    border-color: blue;
+    margin: 10px 40px;
+    
+}
+.header button:hover {
+    background-color: blue;
+    color:white;
+}
